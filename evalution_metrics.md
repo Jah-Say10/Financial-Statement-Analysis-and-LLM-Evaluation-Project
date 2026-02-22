@@ -1,7 +1,3 @@
-Below is a concise definition of the five evaluation metrics and a quantitative operationalization suitable for a research paper.
-
----
-
 ### Evaluation Metrics
 
 We evaluate model responses across five dimensions, each scored on a 1–5 Likert scale (1 = very poor, 5 = excellent).
@@ -104,3 +100,4 @@ or a weighted version if financial reasoning is prioritized:
 ]
 
 with (w_3 > w_i) for financial-reasoning–focused evaluation.
+
